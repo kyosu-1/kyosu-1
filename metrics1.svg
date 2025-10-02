@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.54mb of code in 1214 edited files across 374 commits over last 29 days</small>
+                <small>estimation from 4.57mb of code in 1229 edited files across 375 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.75992765704194" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="319.75992765704194" y="0" width="87.64279560371929" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="407.4027232607612" y="0" width="46.430766129448735" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.83348939020993" y="0" width="2.8187469125491456" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.6522363027591" y="0" width="1.2869082823640534" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.93914458512313" y="0" width="1.1445373979115565" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.0836819830347" y="0" width="0.5082099926025835" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.5918919756373" y="0" width="0.4081080243626807" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.49683925038534" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="320.49683925038534" y="0" width="88.01675207868007" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="408.51359132906543" y="0" width="45.384833335565254" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.8984246646306" y="0" width="2.7890646309686504" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.68748929559933" y="0" width="1.273356737940061" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.9608460335394" y="0" width="1.1324850631762273" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.09333109671564" y="0" width="0.5028583833341909" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.5961894800498" y="0" width="0.4038105199501836" height="8" fill="#844FBA"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,8 +239,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.95 MB</div>
-                                <div>69.51%</div>
+                                <div>1.98 MB</div>
+                                <div>69.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -251,8 +251,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>283 kB</div>
-                                <div>10.09%</div>
+                                <div>279 kB</div>
+                                <div>9.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -289,8 +289,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>534 kB</div>
-                                <div>19.05%</div>
+                                <div>542 kB</div>
+                                <div>19.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -550,42 +550,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 34.996681647252096%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">44%</span>
+                                <div class="bar" style="width: 33.50481170010835%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 7.656111762328108%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 7.08618236930992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 3.866495845443115%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.18664007734608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.3571056076788603%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3788042456679287%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.16303775346221722%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1729443388388015%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 0.1450008587761998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.15381147690997676%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.03727763274578512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03954271579306015%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.029722477779490143%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03152849054324173%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2608,7 +2608,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 09:22:52 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 21:09:50 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
